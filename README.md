@@ -9,8 +9,10 @@
   src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg"
 />
 
+</div>
 
 <br/>  
+
 ## 🧑 About me:
 
 <p>
