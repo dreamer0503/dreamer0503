@@ -4,10 +4,6 @@
   
 <h2>Hi there 👋 Welcome to my Profile!</h2>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;Full%20Stack%20Developer;10%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
-<img
-  align="center"
-  src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg"
-/>
 
 </div>
 
@@ -125,4 +121,8 @@ I'm Full Stack & BlockChain Developer who like challenges and am always learning
 
 <br/>  
 
+<img
+  align="center"
+  src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg"
+/>
 
