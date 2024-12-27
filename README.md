@@ -11,7 +11,36 @@
 
 
 <br/>  
+## 🧑 About me:
 
+<p>
+I'm Full Stack & BlockChain Developer who like challenges and am always learning new technologies every day.
+</p>
+
+<h2>🥇 Specialised in:</h2>
+<p>🎁  FRONT END</p>
+<ul>
+	<li>HTML5, CSS3 (SCSS, SASS, LESS), ECMA Script, TypeScript</li>
+	<li>React, Angular, Vue.js for JS frameworks</li>
+	<li>Bootstrap, Material UI, Tailwind CSS, Vuetify for UI templates</li>
+</ul>
+
+<p>🎁  BACK END</p>
+<ul>
+	<li>Node.js, Express, NestJS</li>
+	<li>Python, Django for frameworks</li>
+	<li>PHP, Laravel</li>
+	<li>C#, ASP.NET</li>
+	<li>RESTful/GraphQL APIs</li>
+	<li>SQL (MySQL, PostgreSQL, AWS RDS), NoSQL (MongoDB, AWS DynamoDB)</li>
+	<li>AWS, Azure, GCP, Firebase</li>
+</ul>
+
+<p>🎁 Desktop & Mobile</p>
+<ul>
+	<li>ElectronJS, NW.js</li>
+	<li>React Native, Flutter, Ionic Frameworks</li>
+</ul>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
